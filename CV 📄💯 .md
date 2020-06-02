@@ -1,20 +1,20 @@
 # Rodrigo Fernando Henriques Sobral
-
-## __DISCLAIMER__
-
-Peço desde já desculpa pela forma informal como este CV foi projetado. Não gosto muito de formalidades, apesar de as saber ter.
-
-Não leve a mal, acho que torna tudo isto mais forçado e pesado para si de ler. Agora sim, vamos a isto! :muscle:
-
 *Imagem de matricúla no curso*
 
 ![Imagem de matricúla na Universidade de Coimbra](https://lh3.googleusercontent.com/eixUuP08JLdSHlxmLS2bu3drEM5xvf9-oDuk8bIQyYN6_0Uj3wKVswgYW4jfDEuLGm9M4xW49mbyOrDNAtEJICVmasbQKFRC6oFIrd4XqQ2Zba2-EIIpPELV3sereGr_KlUJqA58jrIw9nsFHGCHswMcA5VnlyQb0ZmQvzurwiZvDFXu63zN-wT2SmWPa0bUBNpoFXRMFU50MsmhtDc-Ih9wZ3HUbzYb34QC8AD1otYyYJe5VAJR8tnBnJVNeygMxXdk7A26aqs6psRIhhXDEFh14Ez_DnHMqectxPX78eVN6uMmWj12EzKAY6XmseUg4cioSxmV-wHkkoDHJo9JdT7r_kL5H0egSpm4PJPLNLXywbO5kXo0WOzJInIpi1W_lXxc4jbKVd82H1yfkcs4F1jCpQDSLixx3rUFB7XAwNLC_e2NJzfjJO0Fo-Pn0mLzwADo9anNURVULMNEqe06phG9PxTFJY_oQv1zzdl_mc28R1eCYdBd9zD-aqkvS99RpXeU2pZ1kujov9VJukM60LALE9Idc1BL1DHVJk6tzLPUMBA1GKzoiBIsXQnGXIl2bvzo6brUoCvABP3T2I-JDmO5OC9Qby7ur3RuCudVFN4tP590Zx5Pa8D4wACdqNeMa1e4PcMsLKduRwjjTob0QFyLH1H0UJJEY1cH4qPSOCDLKPb7zC-b4CZ8Ww7e=s128-no?authuser=0)
+
+## __DISCLAIMER__
+
+Peço desde já desculpa pela forma informal e por vezes humorística como este CV foi projetado. Não gosto muito de formalidades, apesar de as saber ter.
+
+Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para si de ler. Agora sim, vamos a isto! :muscle:
+
 
 ## Sobre
 
 *	2000
 
-	Nascido a 3 de janeiro de 2000 no hospital de Viseu. 
+	A 3 de janeiro no hospital de Viseu, o menino da profecia nasceu.
 
 	Signo: :capricorn: (:joy:)
 
@@ -24,7 +24,7 @@ Não leve a mal, acho que torna tudo isto mais forçado e pesado para si de ler.
 
 * 2010/2011
 
-	Depois de sonhar em defender a pátria e entrar na força aérea portuguesa, aos cerca de 11 anos descobri a área de programação e rapidamente mudei de ideias, o que era óbvio já que era uma criança que mexia em computadores desde os 4 anos (apesar de que nessa altura pensava que para desinstalar um programa bastava arrastar o ícone para o lixo :sweat_smile:).
+	Depois de sonhar em defender a pátria e entrar na força aérea portuguesa, aos cerca de 11 anos descobri a programação e rapidamente mudei de ideias, o que era óbvio já que era uma criança que mexia em computadores desde os 4 anos (apesar de que nessa altura pensava que para desinstalar um programa bastava arrastar o ícone para o lixo :sweat_smile:).
 
 * 2011:arrow_right::skull:
 
