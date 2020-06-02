@@ -99,6 +99,16 @@ Segurança | ██████████████████░░ 90%
 Ciência dos Dados | ███████░░░░░░░░░░░░░ 35%
 Simulação | ███████░░░░░░░░░░░░░ 35%
 
+## Experiência Profissional
+
+Nunca estagiei ou trabalhei quer na função pública ou privada.
+
+Em parte, devido ao facto de viver numa pequena vila no distrito de Viseu onde não há muitas oportunidades de trabalho.
+
+Contudo, porém, todavia, todos temos de começar por algum lado e se tiver a oportunidade de começar na minha área, menor será o achatamento da minha curva de progresso. 
+
+Tenho uma pequena noção de que o mercado de trabalho seja outro mundo, completamente diferente das exigências que uma universidade impõe. Mas isso não me assusta, tenho vontade de aprender com os mais experientes, seguir as pegadas deles e fazer melhor que eles.
+
 ## Contactos
 :iphone: [**Facebook**](https://www.facebook.com/rodrigo.sobral2000?ref=bookmarks): Aqui não publico nada, demasiada família já.
 
