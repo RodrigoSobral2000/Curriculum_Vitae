@@ -1,7 +1,7 @@
 # Rodrigo Fernando Henriques Sobral
-*Imagem de matricúla no curso*
+*Imagem de matrícula no curso*
 
-![Imagem de matricúla na Universidade de Coimbra](https://lh3.googleusercontent.com/eixUuP08JLdSHlxmLS2bu3drEM5xvf9-oDuk8bIQyYN6_0Uj3wKVswgYW4jfDEuLGm9M4xW49mbyOrDNAtEJICVmasbQKFRC6oFIrd4XqQ2Zba2-EIIpPELV3sereGr_KlUJqA58jrIw9nsFHGCHswMcA5VnlyQb0ZmQvzurwiZvDFXu63zN-wT2SmWPa0bUBNpoFXRMFU50MsmhtDc-Ih9wZ3HUbzYb34QC8AD1otYyYJe5VAJR8tnBnJVNeygMxXdk7A26aqs6psRIhhXDEFh14Ez_DnHMqectxPX78eVN6uMmWj12EzKAY6XmseUg4cioSxmV-wHkkoDHJo9JdT7r_kL5H0egSpm4PJPLNLXywbO5kXo0WOzJInIpi1W_lXxc4jbKVd82H1yfkcs4F1jCpQDSLixx3rUFB7XAwNLC_e2NJzfjJO0Fo-Pn0mLzwADo9anNURVULMNEqe06phG9PxTFJY_oQv1zzdl_mc28R1eCYdBd9zD-aqkvS99RpXeU2pZ1kujov9VJukM60LALE9Idc1BL1DHVJk6tzLPUMBA1GKzoiBIsXQnGXIl2bvzo6brUoCvABP3T2I-JDmO5OC9Qby7ur3RuCudVFN4tP590Zx5Pa8D4wACdqNeMa1e4PcMsLKduRwjjTob0QFyLH1H0UJJEY1cH4qPSOCDLKPb7zC-b4CZ8Ww7e=s128-no?authuser=0)
+![Imagem de matrícula no curso](https://lh3.googleusercontent.com/eixUuP08JLdSHlxmLS2bu3drEM5xvf9-oDuk8bIQyYN6_0Uj3wKVswgYW4jfDEuLGm9M4xW49mbyOrDNAtEJICVmasbQKFRC6oFIrd4XqQ2Zba2-EIIpPELV3sereGr_KlUJqA58jrIw9nsFHGCHswMcA5VnlyQb0ZmQvzurwiZvDFXu63zN-wT2SmWPa0bUBNpoFXRMFU50MsmhtDc-Ih9wZ3HUbzYb34QC8AD1otYyYJe5VAJR8tnBnJVNeygMxXdk7A26aqs6psRIhhXDEFh14Ez_DnHMqectxPX78eVN6uMmWj12EzKAY6XmseUg4cioSxmV-wHkkoDHJo9JdT7r_kL5H0egSpm4PJPLNLXywbO5kXo0WOzJInIpi1W_lXxc4jbKVd82H1yfkcs4F1jCpQDSLixx3rUFB7XAwNLC_e2NJzfjJO0Fo-Pn0mLzwADo9anNURVULMNEqe06phG9PxTFJY_oQv1zzdl_mc28R1eCYdBd9zD-aqkvS99RpXeU2pZ1kujov9VJukM60LALE9Idc1BL1DHVJk6tzLPUMBA1GKzoiBIsXQnGXIl2bvzo6brUoCvABP3T2I-JDmO5OC9Qby7ur3RuCudVFN4tP590Zx5Pa8D4wACdqNeMa1e4PcMsLKduRwjjTob0QFyLH1H0UJJEY1cH4qPSOCDLKPb7zC-b4CZ8Ww7e=s128-no?authuser=0)
 
 ## __DISCLAIMER__
 
@@ -47,9 +47,9 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 * 2018:arrow_right:-
 
 	Entrei em Engenharia Informática na Universidade de Coimbra.
-	Depois de, no primeiro ano, chumbar a uma cadeira de Princípipos de Programação Procedimental (linguagem C), aprendi que gostar não basta.
+	Depois de, no primeiro ano, mesmo com um projeto prático avaliado em 90%, reprovar a uma cadeira de Princípipos de Programação Procedimental (linguagem C), aprendi que gostar não basta.
 	Nas férias de verão fiz cursos online de POO, MYSQL, Redes, Linux e alguns conhecimentos avulsos.
-	Apesar de teoricamente mais difícil, no segundo ano subi a média.
+	Apesar de teoricamente mais difícil, no segundo ano consegui melhores resultados .
 	
 	
 ## Idiomas que falo
@@ -66,7 +66,7 @@ Do ponto de vista Junior!
 Linguagem | Auto avaliação de conhecimento
 --- | ---
 Python | ████████████████████ 100%
-Assembly | ███████░░░░░░░░░░░░░ 35%
+Assembly | █████████████░░░░░░░ 65%
 C | ████████████████████ 100% 
 Web Socket (C) | ████████████████░░░░ 80%
 Linux Programming (C) | ███████████████░░░░░ 75%
@@ -98,6 +98,10 @@ Redes | █████████████████░░░ 85%
 Segurança | ██████████████████░░ 90%
 Ciência dos Dados | ███████░░░░░░░░░░░░░ 35%
 Simulação | ███████░░░░░░░░░░░░░ 35%
+
+## Mindset
+
+**por fazer**
 
 ## Experiência Profissional
 
