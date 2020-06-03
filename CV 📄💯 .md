@@ -3,7 +3,7 @@
 
 ![Imagem de matrícula no curso](https://lh3.googleusercontent.com/eixUuP08JLdSHlxmLS2bu3drEM5xvf9-oDuk8bIQyYN6_0Uj3wKVswgYW4jfDEuLGm9M4xW49mbyOrDNAtEJICVmasbQKFRC6oFIrd4XqQ2Zba2-EIIpPELV3sereGr_KlUJqA58jrIw9nsFHGCHswMcA5VnlyQb0ZmQvzurwiZvDFXu63zN-wT2SmWPa0bUBNpoFXRMFU50MsmhtDc-Ih9wZ3HUbzYb34QC8AD1otYyYJe5VAJR8tnBnJVNeygMxXdk7A26aqs6psRIhhXDEFh14Ez_DnHMqectxPX78eVN6uMmWj12EzKAY6XmseUg4cioSxmV-wHkkoDHJo9JdT7r_kL5H0egSpm4PJPLNLXywbO5kXo0WOzJInIpi1W_lXxc4jbKVd82H1yfkcs4F1jCpQDSLixx3rUFB7XAwNLC_e2NJzfjJO0Fo-Pn0mLzwADo9anNURVULMNEqe06phG9PxTFJY_oQv1zzdl_mc28R1eCYdBd9zD-aqkvS99RpXeU2pZ1kujov9VJukM60LALE9Idc1BL1DHVJk6tzLPUMBA1GKzoiBIsXQnGXIl2bvzo6brUoCvABP3T2I-JDmO5OC9Qby7ur3RuCudVFN4tP590Zx5Pa8D4wACdqNeMa1e4PcMsLKduRwjjTob0QFyLH1H0UJJEY1cH4qPSOCDLKPb7zC-b4CZ8Ww7e=s128-no?authuser=0)
 
-## __DISCLAIMER__
+## __DISCLAIMER__ :warning:
 
 Peço desde já desculpa pela forma informal e por vezes humorística como este CV foi projetado. Não gosto muito de formalidades, apesar de as saber ter.
 
@@ -16,7 +16,7 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 
 	A 3 de janeiro no hospital de Viseu, o menino da profecia nasceu.
 
-	Signo: :capricorn: (:joy:)
+	Signo: :capricorn: (com ascendente em ganso)
 
 * 2007:arrow_right:2015
 
@@ -61,7 +61,7 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 
 ## Habilidades Técnicas Adquiridas durante o Curso
 
-Do ponto de vista Junior!
+:warning: Do ponto de vista Junior!
 
 Linguagem | Auto avaliação de conhecimento
 --- | ---
@@ -71,14 +71,15 @@ C | ████████████████████ 100%
 Web Socket (C) | ████████████████░░░░ 80%
 Linux Programming (C) | ███████████████░░░░░ 75%
 MATLAB | ██████████░░░░░░░░░░ 50%
-JavaScript | ███████████████████░ 95%
+Java | ██████████████████░░ 90%
+JavaScript | █████████████████░░░ 85%
 HTML | ████████░░░░░░░░░░░░ 40%
 CSS | ████████░░░░░░░░░░░░ 40%
 
 
 ## Habilidades Técnicas Adquiridas por conta própria
 
-Do ponto de vista Junior!
+:warning: Do ponto de vista Junior!
 
 Linguagem | Auto avaliação de conhecimento
 --- | ---
@@ -88,7 +89,7 @@ MySQL | ████████████████░░░░ 80%
 
 ## Conhecimentos Teóricos Informáticos
 
-Do ponto de vista Junior!
+:warning: Do ponto de vista Junior!
 
 Área | Auto avaliação de conhecimento
 --- | ---
@@ -101,7 +102,16 @@ Simulação | ███████░░░░░░░░░░░░░ 35%
 
 ## Mindset
 
-**por fazer**
+- [x] Líder
+- [x] Responsável
+- [x] Organizado
+- [x] Metódico
+- [x] Sugestivo
+- [x] Improvisador
+- [x] Decisivo
+- [x] Ambicioso
+- [ ] Perfecionista
+- [ ] Compreensivo
 
 ## Experiência Profissional
 
