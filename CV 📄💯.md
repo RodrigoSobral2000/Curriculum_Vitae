@@ -52,7 +52,7 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 	Apesar de teoricamente mais difícil, no segundo ano consegui melhores resultados .
 	
 	
-## Idiomas que falo :speech_balloon:
+## Fluente em :speech_balloon:
 🇵🇹	🇬🇧	🇪🇸
 
 ## IDE/Editor de Texto de Escolha
