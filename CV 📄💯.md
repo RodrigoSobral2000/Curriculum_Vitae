@@ -46,10 +46,11 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 	
 * 2018:arrow_right:-
 
-	Entrei em Engenharia Informática na Universidade de Coimbra.
+	Entrei na Licenciatura de Engenharia Informática na Universidade de Coimbra.
 	Depois de, no primeiro ano, mesmo com um projeto prático avaliado em 90%, reprovar a uma cadeira de Princípipos de Programação Procedimental (linguagem C), aprendi que gostar não basta.
 	Nas férias de verão fiz cursos online de POO, MYSQL, Redes, Linux e alguns conhecimentos avulsos.
-	Apesar de teoricamente mais difícil, no segundo ano consegui melhores resultados .
+	Apesar de teoricamente mais difícil, no segundo ano consegui melhores resultados.
+	Neste momento encontro-me a finalizar o 2º ano do curso e não tenciono baixar a cabeça.
 	
 	
 ## Fluente em :speech_balloon:
