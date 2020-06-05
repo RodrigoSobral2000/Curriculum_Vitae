@@ -84,7 +84,8 @@ CSS | ████████░░░░░░░░░░░░ 40%
 
 Linguagem | Auto avaliação de conhecimento
 --- | ---
-GitHub | ████████████████████ 100%
+Git | ████████████████░░░░ 80%
+MarkDown | █████████████████░░░ 85%
 MySQL | ████████████████░░░░ 80% 
 
 
@@ -112,7 +113,6 @@ Simulação | ███████░░░░░░░░░░░░░ 35%
 - [x] Decisivo
 - [x] Ambicioso
 - [ ] Perfecionista
-- [ ] Compreensivo
 
 ## Experiência Profissional :office:
 
