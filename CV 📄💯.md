@@ -1,5 +1,4 @@
 # Rodrigo Fernando Henriques Sobral
-*Imagem de matrícula no curso*
 
 ![Foto Identificativa](https://lh3.googleusercontent.com/GYt4F-m8TFo8FUYahkBLu1KSU7tNN_6L9WslxO0yxFFHOsbHWcgndXOA_TcP-00tZileR7SC-uZ483CYvMlaVpoKgOt6AHAwsAzUbfn3sSWZAzIhuM_6ZJBMH-zoF3VVRRQ8mHYdi3iNKX5HrQSfKAWIE2ecB3YfKS8kPo259SU7tfJkx8ehi6-0V0HYNSSzcQRqKq58VB_703W-AIBcEviM6JeAfN7uCoY3qfkbnGyblMKkgky3VmoLlzOvY5ssIWu1Nj47ak9E5hxJ67ioj0S-5ArOq_f_wl19_Pr9Qto19mFwFmPRGNb_l40ypUWgtlX9u7MN_JbJ3MtWrvMEMHA1h4YPV3GB9tDetQH7zgJM3aULO-mxJrs5oxOtxn6UygXYkuhUzyEWdO3c5fgm1N42dcjoIaqfICXygdm0k7auwj9JL7RhjKHXaQBkR70F8xcx3okFscWFLjlgoS643xNl4utpHEuFw5rJLOm7r51GLf4iRJEiKsLRKf-iYUao8uwcaeUgYaTy6It5sxkeuogGVOcMfHAhvuDlEL4pzuyXiQCv7Rag6GPuFQYRlJwlmpHXc6MsNp2s7dIwLMedgZIZsEbueEfn454qvVCJHTRJ4TSv6lllS_Xdh-3bB2WMe650A29IYE-oFn1kPVovnVLV11teGtbONtULTu_LbBdtvk_d9FeqPvCyJza9U5O_ACdTew=s128-no?authuser=0)
 
@@ -34,6 +33,7 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 	Entrei na Licenciatura de Engenharia Informática na Universidade de Coimbra.
 	
 * 	2019	
+	
 	Nas férias de verão fiz cursos online de POO, MYSQL, Redes, Linux e alguns conhecimentos avulsos.
 
 * 	2020
