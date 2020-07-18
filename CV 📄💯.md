@@ -1,7 +1,7 @@
 # Rodrigo Fernando Henriques Sobral
 *Imagem de matrícula no curso*
 
-![Imagem de matrícula no curso](https://lh3.googleusercontent.com/unQzKFa8D1nVmswkjAQkokZ2xmNn8EmDOiTgZiVlUIX-ttRk5cvrqtsflFbhWxC6pFW3aLE4NldlUwvMHNkr-r75sEO4Q7BBNLuFVaAh6efLhQGqk1S39WjBRPnM2XDsE9lnNJW_qP2zbYQJgTgy9OxMVTmTud_EWaKB19ZJwX2nWM7PO5QQxO1OGTb4-uvYmgA3cO_b5zgJ_6OgsT3yXGpOwMp7cEj7xO7hWf7r42_3Un17tivtmPrtetEaDJa8_lKOqN2TQnEe2jj6G1OR2uE3ZaPRnpEVAPfkOLhnxjL7QbeLH48mj-cuX4hlRbwZeO1d9gwj5eyUMsP3G5q5rnOyGv8P8o5PyLHeBcTVcRwgcxYzkdABnhrex4m_mqln7na9l8unUrbNUe7xV_s09m94TliKmTvEaakmrAcksVu84rgmLIuM1XXKj_-k8aATUKbZnIBoivly-_NRfgNY06KkfFXhGvBm9KIkCwcmBY5MhX7rz5pLgHVHNPN4Nkcth0piJC-qxBoVRMHSAtDBiowlO2i1QItEq4O8SPsy42g6jMfhLlonVgAqt7T2ySm0Y6UNXfm53gjUzNuJxaXk2BR4fWgDktvoSV_YESSwyojR40qj0MUC9-8al3SjFydRveqT1Sin-JTUQjsWJ1qU4HUcHw9eTmoPFcfhNnG-hBTuk7oGDX5rubJp6YsQ=s128-no?authuser=0)
+![Foto Identificativa](https://lh3.googleusercontent.com/GYt4F-m8TFo8FUYahkBLu1KSU7tNN_6L9WslxO0yxFFHOsbHWcgndXOA_TcP-00tZileR7SC-uZ483CYvMlaVpoKgOt6AHAwsAzUbfn3sSWZAzIhuM_6ZJBMH-zoF3VVRRQ8mHYdi3iNKX5HrQSfKAWIE2ecB3YfKS8kPo259SU7tfJkx8ehi6-0V0HYNSSzcQRqKq58VB_703W-AIBcEviM6JeAfN7uCoY3qfkbnGyblMKkgky3VmoLlzOvY5ssIWu1Nj47ak9E5hxJ67ioj0S-5ArOq_f_wl19_Pr9Qto19mFwFmPRGNb_l40ypUWgtlX9u7MN_JbJ3MtWrvMEMHA1h4YPV3GB9tDetQH7zgJM3aULO-mxJrs5oxOtxn6UygXYkuhUzyEWdO3c5fgm1N42dcjoIaqfICXygdm0k7auwj9JL7RhjKHXaQBkR70F8xcx3okFscWFLjlgoS643xNl4utpHEuFw5rJLOm7r51GLf4iRJEiKsLRKf-iYUao8uwcaeUgYaTy6It5sxkeuogGVOcMfHAhvuDlEL4pzuyXiQCv7Rag6GPuFQYRlJwlmpHXc6MsNp2s7dIwLMedgZIZsEbueEfn454qvVCJHTRJ4TSv6lllS_Xdh-3bB2WMe650A29IYE-oFn1kPVovnVLV11teGtbONtULTu_LbBdtvk_d9FeqPvCyJza9U5O_ACdTew=s128-no?authuser=0)
 
 ## :warning:__DISCLAIMER__ 
 
@@ -10,23 +10,17 @@ Peço desde já desculpa pela forma informal e por vezes humorística como este 
 Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para si de ler. Agora sim, vamos a isto! :muscle:
 
 
-## Sobre
+## Momento *Alta Definição*
 
 *	2000
 
 	A 3 de janeiro no hospital de Viseu, o menino da profecia nasceu.
 
-	Signo: :capricorn: (com ascendente em ganso)
+	Signo: :capricorn: (com ascendente em ganso e flamingo)
 
-* 2007:arrow_right:2015
-
-	Aluno de 5, vários quadros de excelência, enfim, nada demais, na altura a gente era ingénua, mal sabia o que aí vinha :')
-
-* 2010/2011
+* 	2011:arrow_right::skull:
 
 	Depois de sonhar em defender a pátria e entrar na força aérea portuguesa, aos cerca de 11 anos descobri a programação e rapidamente mudei de ideias, o que era óbvio já que era uma criança que mexia em computadores desde os 4 anos (apesar de que nessa altura pensava que para desinstalar um programa bastava arrastar o ícone para o lixo :sweat_smile:).
-
-* 2011:arrow_right::skull:
 
 	Nessa altura, cheguei à seguinte conclusão:
 	```
@@ -35,32 +29,26 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 	}
 	```
 	
-	Mesmo não nascendo num berço de ouro, nunca foi uma escolha feita por dinheiro, carreira, ou por ser um "trabalho limpo". Mesmo que fosse um caminho pouco promissor como já foi antigamente, a minha escolha não mudaria. 
-	Sigo isto por pura paixão e ambição de saber cada vez mais, trabalhe onde trabalhar, dinheiro e sucesso vão ser apenas consequência.
-	
-* 2015:arrow_right:2018
-
-	Entrei no secundário, as coisas começaram a apertar, nada de quadros de excelência agora, mas ainda acabei com média de 16,1. Mesmo assim, ainda não fazia ideia do que aí vinha.
-	
-	Candidatei-me para a universidade. Entre as 6 opções escolhidas, 6 eram Engenharia Informática e variados. Nesta fase só tinha um objetivo em mente, ser dos melhores.
-	
-* 2018:arrow_right:-
+* 	2018
 
 	Entrei na Licenciatura de Engenharia Informática na Universidade de Coimbra.
-	Depois de, no primeiro ano, mesmo com um projeto prático avaliado em 90%, reprovar a uma cadeira de Princípipos de Programação Procedimental (linguagem C), aprendi que gostar não basta.
+	
+* 	2019	
 	Nas férias de verão fiz cursos online de POO, MYSQL, Redes, Linux e alguns conhecimentos avulsos.
-	Apesar de teoricamente mais difícil, no segundo ano consegui melhores resultados.
-	Neste momento encontro-me a finalizar o 2º ano do curso e não tenciono baixar a cabeça.
+
+* 	2020
+
+	Neste momento encontro-me a finalizar o 2º ano do curso.
 	
 	
-## Fluente em :speech_balloon:
+## Capaz de comunicar em :speech_balloon:
 🇵🇹	🇬🇧	🇪🇸
 
 ## IDE/Editor de Texto de Escolha
 
 * VISUAL STUDIO CODE	
 
-## Habilidades Técnicas Adquiridas durante o Curso :mortar_board:
+## Hard Skills Adquiridas durante o Curso :mortar_board:
 
 :warning: Do ponto de vista Junior!
 
@@ -78,7 +66,7 @@ HTML | ████████░░░░░░░░░░░░ 40%
 CSS | ████████░░░░░░░░░░░░ 40%
 
 
-## Habilidades Técnicas Adquiridas por conta própria :computer:
+## Hard Skills Adquiridas por conta própria :computer:
 
 :warning: Do ponto de vista Junior!
 
@@ -102,7 +90,7 @@ Segurança | ██████████████████░░ 90%
 Ciência dos Dados | ███████░░░░░░░░░░░░░ 35%
 Simulação | ███████░░░░░░░░░░░░░ 35%
 
-## Mindset :thought_balloon:
+## Soft Skills :thought_balloon:
 
 - [x] Líder
 - [x] Responsável
@@ -120,7 +108,7 @@ Nunca estagiei ou trabalhei quer na função pública ou privada.
 
 Em parte, devido ao facto de viver numa pequena vila no distrito de Viseu onde não há muitas oportunidades de trabalho.
 
-Contudo, porém, todavia, todos temos de começar por algum lado e se tiver a oportunidade de começar na minha área, menor será o achatamento da minha curva de progresso. 
+Contudo, todos temos de começar por algum lado e se tiver a oportunidade de começar na minha área, menor será o achatamento da minha curva de progresso. 
 
 Tenho uma pequena noção de que o mercado de trabalho seja outro mundo, completamente diferente das exigências que uma universidade impõe. Mas isso não me assusta, tenho vontade de aprender com os mais experientes, seguir as pegadas deles e fazer melhor que eles.
 
