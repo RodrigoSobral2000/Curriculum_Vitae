@@ -11,12 +11,18 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 
 ## Momento *Alta Definição*
 
-*	2000
+* 	2020
 
-	A 3 de janeiro no hospital de Viseu, o menino da profecia nasceu.
+	Neste momento encontro-me a finalizar o 2º ano do curso.
+	
+* 	2019	
+	
+	Nas férias de verão fiz cursos online de POO, MYSQL, Redes, Linux e alguns conhecimentos avulsos.
 
-	Signo: :capricorn: (com ascendente em ganso e flamingo)
+* 	2018
 
+	Entrei na Licenciatura de Engenharia Informática na Universidade de Coimbra.
+	
 * 	2011:arrow_right::skull:
 
 	Depois de sonhar em defender a pátria e entrar na força aérea portuguesa, aos cerca de 11 anos descobri a programação e rapidamente mudei de ideias, o que era óbvio já que era uma criança que mexia em computadores desde os 4 anos (apesar de que nessa altura pensava que para desinstalar um programa bastava arrastar o ícone para o lixo :sweat_smile:).
@@ -27,22 +33,18 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 		sucess= programming(me, my_pc);
 	}
 	```
-	
-* 	2018
 
-	Entrei na Licenciatura de Engenharia Informática na Universidade de Coimbra.
-	
-* 	2019	
-	
-	Nas férias de verão fiz cursos online de POO, MYSQL, Redes, Linux e alguns conhecimentos avulsos.
+*	2000
 
-* 	2020
+	A 3 de janeiro no hospital de Viseu, o menino da profecia nasceu.
 
-	Neste momento encontro-me a finalizar o 2º ano do curso.
+	Signo: :capricorn: (com ascendente em ganso e flamingo)
 	
 	
 ## Capaz de comunicar em :speech_balloon:
-🇵🇹	🇬🇧	🇪🇸
+1) 🇵🇹	
+2) 🇬🇧
+3) 🇪🇸
 
 ## IDE/Editor de Texto de Escolha
 
@@ -115,18 +117,10 @@ Tenho uma pequena noção de que o mercado de trabalho seja outro mundo, complet
 ## Contactos
 :iphone: [**Facebook**](https://www.facebook.com/rodrigo.sobral2000?ref=bookmarks): Aqui não publico nada, demasiada família já.
 
-:shirt: [**Instagram**](https://www.instagram.com/rodrigo_sobral_2000/): Aqui metia fotos das férias, se não passasse tanto tempo no pc.
-
-:musical_note: [**Spotify**](https://open.spotify.com/user/11166904338?si=6DWV6B_zSSCe67IzwjzVTQ): Aqui só ouço boa música.
-
-:video_game: [**Steam**](https://steamcommunity.com/profiles/76561198158284681/): Aqui descontraio com os amigos.
-
-:tv: [**Twitch**](https://www.twitch.tv/settings/profile): Aqui é onde estou quando não me apetece jogar nem programar.
-
-:sound: [**Discord**](Rodrigo_Sobral#5378): Aqui é onde eu falo com os meus amigos para jogar, trabalhar ou durante uma possível quarentena.
-
 :necktie: [**LinkedIn**](https://www.linkedin.com/in/rodrigo-sobral-378080151/): Aqui sou uma pessoa séria.
 
 :octocat: [**GitHub**](https://github.com/RodrigoSobral2000): Aqui dou um cheirinho daquilo que sei fazer.
 
 :email:	[**EMAIL**](mailto:rodrigosobral@sapo.pt): E por fim mas não menos importante, aqui você contrata-me. :wink:
+
+:phone: 926180923: Ou aqui, aqui também dá. :wink::wink:
