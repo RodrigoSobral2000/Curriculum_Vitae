@@ -56,16 +56,16 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 
 Linguagem | Auto avaliação de conhecimento
 --- | ---
-Python | ████████████████████ 100%
-Assembly | █████████████░░░░░░░ 65%
-C | ████████████████████ 100% 
-Web Socket (C) | ████████████████░░░░ 80%
-Linux Programming (C) | ███████████████░░░░░ 75%
-MATLAB | ██████████░░░░░░░░░░ 50%
+Python | ████████████████████
+Assembly | █████████████░░░░░░░
+C | ████████████████████
+Web Socket (C) | ████████████████░░░░
+Linux Programming (C) | ███████████████░░░░░
+MATLAB | ██████████░░░░░░░░░░
 Java | ██████████████████░░ 90%
-JavaScript | █████████████████░░░ 85%
-HTML | ████████░░░░░░░░░░░░ 40%
-CSS | ████████░░░░░░░░░░░░ 40%
+JavaScript | █████████████████░░░
+HTML | ████████░░░░░░░░░░░░
+CSS | ████████░░░░░░░░░░░░
 
 
 ## Hard Skills Adquiridas por conta própria :computer:
@@ -74,9 +74,9 @@ CSS | ████████░░░░░░░░░░░░ 40%
 
 Linguagem | Auto avaliação de conhecimento
 --- | ---
-Git | ████████████████░░░░ 80%
-MarkDown | █████████████████░░░ 85%
-MySQL | ████████████████░░░░ 80% 
+Git | ████████████████░░░░
+MarkDown | █████████████████░░░
+MySQL | ████████████████░░░░
 
 
 ## Conhecimentos Teóricos Adquiridos por conta própria :books:
@@ -85,12 +85,12 @@ MySQL | ████████████████░░░░ 80%
 
 Área | Auto avaliação de conhecimento
 --- | ---
-Hardware | ████████████████░░░░ 80%
-Otimização de Código e Algoritmo | ███████████████████░ 95%
-Redes | █████████████████░░░ 85%
-Segurança | ██████████████████░░ 90%
-Ciência dos Dados | ███████░░░░░░░░░░░░░ 35%
-Simulação | ███████░░░░░░░░░░░░░ 35%
+Hardware | ████████████████░░░░
+Otimização de Código e Algoritmo | ███████████████████░
+Redes | █████████████████░░░
+Segurança | ██████████████████░░
+Ciência dos Dados | ███████░░░░░░░░░░░░░
+Simulação | ███████░░░░░░░░░░░░░
 
 ## Soft Skills :thought_balloon:
 
