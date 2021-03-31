@@ -1,6 +1,6 @@
 # Rodrigo Fernando Henriques Sobral
 
-![Foto 2018](Rodrigo.jpg)
+![Foto 2018](resources/Rodrigo.jpg)
 
 ## :warning:__DISCLAIMER__ 
 
@@ -25,7 +25,7 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 	
 * 	2011:arrow_right::skull:
 
-	Depois de sonhar em defender a pátria e entrar na força aérea portuguesa, aos cerca de 11 anos descobri a programação e rapidamente mudei de ideias, o que seria previsível para uma criança que já mexia em computadores desde os 4/5 anos.
+	Depois de sonhar em entrar na força aérea portuguesa, aos cerca de 11 anos descobri a programação e rapidamente mudei de ideias, o que seria previsível para uma criança que já mexia em computadores desde os 4/5 anos.
 
 	Nessa altura, cheguei à seguinte conclusão:
 
@@ -106,7 +106,7 @@ As mais evidentes e possivelmente mais extremas:
 ## Experiência Profissional :office:
 
 - Estágio de verão dum 1 mês na [`Critical Software`](https://www.criticalsoftware.com/pt)
-![Sou o de tshirt rosa no meio](https://media-exp1.licdn.com/dms/image/C4D22AQFnZ38uR7FRxw/feedshare-shrink_2048_1536/0/1594824034464?e=1614816000&v=beta&t=j15GyTiJ5izLMyb5VCKJ5xrdsmpavaFU66C9nLfmUW4)
+![Sou o de tshirt rosa no meio](resources/critical_software.jpg)
 
 ## Contactos
 
