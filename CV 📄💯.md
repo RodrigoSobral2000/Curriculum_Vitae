@@ -2,13 +2,6 @@
 
 ![Foto 2018](resources/Rodrigo.jpg)
 
-## :warning:__DISCLAIMER__ 
-
-Peço desde já desculpa pela forma informal e por vezes humorística como este CV foi projetado. Não gosto muito de formalidades, apesar de as saber ter.
-
-Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para si de ler. Agora sim, vamos a isto! :muscle:
-
-
 ## Momento *Alta Definição* 
 
 * 	2020
@@ -17,29 +10,15 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 	
 * 	2019	
 	
-	Nas férias de verão fiz cursos online de POO, MYSQL, Redes, Linux e alguns conhecimentos avulsos.
+	Nas férias de verão fiz alguns cursos online, nomeadamente de POO (JAVA), MySQL, protocolos de redes, sistemas Linux e alguns conhecimentos avulsos relacionados ainda com computação.
 
 * 	2018
 
-	Entrei na Licenciatura de Engenharia Informática na Universidade de Coimbra.
-	
-* 	2011:arrow_right::skull:
-
-	Depois de sonhar em entrar na força aérea portuguesa, aos cerca de 11 anos descobri a programação e rapidamente mudei de ideias, o que seria previsível para uma criança que já mexia em computadores desde os 4/5 anos.
-
-	Nessa altura, cheguei à seguinte conclusão:
-
-		while (1) {
-			sucess= programming(me, my_pc);
-		}
-	
+	Entrei na Licenciatura de Engenharia Informática na Faculdade de CUniversidade de Coimbra.
 
 *	2000
 
-	A 3 de janeiro no hospital de Viseu, o menino da profecia nasceu.
-
-	Signo: :capricorn: (com ascendente em ganso e mapa astral de flamingo)
-	
+	Nasci a 3 de janeiro, em Viseu.
 	
 ## Capaz de comunicar em :speech_balloon:
 1) 🇵🇹	
@@ -50,19 +29,20 @@ Não leve a mal, mas achei que tornaria tudo isto menos forçado e pesado para s
 
 * VISUAL STUDIO CODE	
 
-## Hard Skills Adquiridas durante o Curso :mortar_board:
+## Hard Skills Adquiridas durante a Licenciatura :mortar_board:
 
 Do ponto de vista Junior! :baby:
 
-Linguagem | Auto avaliação de conhecimento
+Linguagem | Auto avaliação relativa de conhecimento
 --- | ---
 Python | 				████████████████████
 C | 					████████████████████
-JavaScript |			██████████████████░░
-Linux Programming (C) |	████████████████░░░░
+JavaScript |            ██████████████████░░
+PostgreSQL |         	████████████████░░░░
 OpenGL (C++) | 			███████████████░░░░░
+Linux Programming (C) |	███████████████░░░░░
 Java |					█████████████░░░░░░░
-Web Socket (C) | 		███████████░░░░░░░░░
+Web Socket (C, Java) |  ███████████░░░░░░░░░
 Assembly | 				█████████░░░░░░░░░░░
 HTML | 					████████░░░░░░░░░░░░
 MATLAB |				███████░░░░░░░░░░░░░
@@ -74,46 +54,50 @@ OutSystems | 			██░░░░░░░░░░░░░░░░░░
 
 Do ponto de vista Junior! :baby:
 
-Linguagem | Auto avaliação de conhecimento
+Linguagem | Auto avaliação relativa de conhecimento
 --- | ---
-MarkDown |	█████████████████░░░
-Git | 		████████████████░░░░
-MySQL | 	████████████████░░░░
+MarkDown |	████████████████████
+Git | 		██████████████████░░
+MySQL | 	████████████░░░░░░░░
 
 
 ## Conhecimentos Teóricos Adquiridos por conta própria :books:
 
 Do ponto de vista Junior! :baby:
 
-Área | Auto avaliação de conhecimento
+Área | Auto avaliação relativa de conhecimento
 --- | ---
 Segurança e Hacking | 				██████████████████░░
 Redes | 							█████████████████░░░
-Hardware Computacional |			████████████████░░░░
+*Hardware* |                        ████████████████░░░░
 Otimização de Código e Algoritmo |	████████████░░░░░░░░
 
 ## Soft Skills :thought_balloon:
 
-As mais evidentes e possivelmente mais extremas:
 - [x] Ambicioso
-- [x] Decisivo
-- [x] Improvisador
 - [x] Metódico
 - [x] Organizado
 - [x] Responsável
+- [x] Criativo
+- [x] Comunicativo
 - [x] Sugestivo
+- [x] Trabalhador em equipa
+- [x] Decisivo
+- [x] Improvisador
 
 ## Experiência Profissional :office:
 
-- Estágio de verão dum 1 mês na [`Critical Software`](https://www.criticalsoftware.com/pt)
+- Estágio de verão durante 1 mês na [`Critical Software`](https://www.criticalsoftware.com/pt)
 ![Sou o de tshirt rosa no meio](resources/critical_software.jpg)
 
 ## Contactos
 
-:necktie: [**LinkedIn**](https://www.linkedin.com/in/rodrigo-sobral-378080151/): Aqui sou uma pessoa séria.
+:necktie: [**LinkedIn**](https://www.linkedin.com/in/rodrigo-sobral-378080151/)
 
-:octocat: [**GitHub**](https://github.com/RodrigoSobral2000): Aqui dou um cheirinho daquilo que sei fazer.
+:octocat: [**GitHub**](https://github.com/RodrigoSobral2000)
 
-:email:	[**EMAIL**](mailto:rodrigosobral@sapo.pt): E por fim mas não menos importante, aqui você contrata-me. :wink:
+:closed_lock_with_key: [**TryHackMe**](https://tryhackme.com/p/RodrigoSobral)
 
-:phone: 926180923: Ou aqui, aqui também dá. :wink::wink:
+:email:	[**EMAIL**](mailto:rodrigosobral@sapo.pt)
+
+:phone: 926180923
